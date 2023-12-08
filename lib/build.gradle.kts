@@ -1,0 +1,3 @@
+//exampleSettingsExtension {
+//    someProperty = "project"
+//}
